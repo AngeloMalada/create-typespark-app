@@ -1,1 +1,1 @@
-Create-angelo-stack
+create-typespark-app
